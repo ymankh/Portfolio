@@ -1,53 +1,35 @@
 # Portfolio Website
 
-This is my personal portfolio website, developed as part of the HTML and CSS skills training at the Orange Coding Academy Full Stack Program.
+A single-page portfolio site showcasing Yaman AlKhashashneh's background, services, projects, and contact information.
+
+## Live Site
+
+The latest deployed version is available at [yamanalkhashashneh.online](https://yamanalkhashashneh.online/).
 
 ## Overview
 
-This project showcases my skills and projects as a Full Stack Web Developer. It features sections about me, the services I offer, and some of my key projects. The website is designed to be dynamic, responsive, and user-friendly.
+The site is built as a static HTML page styled with Bootstrap and custom CSS. JavaScript powers interactive elements such as the tabbed "About Me" content and hover overlays on projects.
 
-## Live Demo
+### Page Sections
 
-You can view the live demo of the website [here](https://yaman-kh.netlify.app/).
-
-## Features
-
-- **Responsive Design**: The website is fully responsive, ensuring it looks great on all devices.
-- **Dynamic Content**: Includes interactive elements and dynamic content sections.
-- **Portfolio Showcase**: Highlights some of my key projects with descriptions and links to their repositories.
+- **Header**: Navigation bar and hero area introducing Yaman and his role as a Full Stack Web Developer.
+- **About Me**: Biography with tabbed panels for skills, experience, and education.
+- **Services**: Cards outlining web design, back-end development, and data analysis offerings.
+- **Projects**: Three highlighted projects (DoNoud, Genius, and a Django school management system) with GitHub links.
+- **Contact**: Quick links for phone, WhatsApp, email, LinkedIn, GitHub, CV download, plus an embedded map for in-person meetings.
+- **Footer**: Repeated navigation and contact details.
 
 ## Technologies Used
 
-- **HTML5**
-- **CSS3**
-- **Bootstrap**
-- **JavaScript**
+- **HTML5** for structure
+- **CSS3** with **Bootstrap** for layout and responsive styling
+- **JavaScript** for tab controls and interactive overlays
 
-## Sections
+## Running Locally
 
-- **Home**: Introduction and welcome message.
-- **About**: Information about my background, skills, experience, and education.
-- **Services**: Description of the services I offer.
-- **Projects**: Showcase of some of my significant projects.
-- **Contact**: Contact info and location map.
-
-## Projects Highlighted
-
-<!-- 1. **DoNoud**
-   - A to-do app and note-taking application built using React.
-   - [GitHub Repository](https://github.com/ymankh/Donoud)
-
-2. **Genius**
-   - A system for college students to share experiences and find useful study materials.
-   - [GitHub Repository](https://github.com/ymankh/vidly)
-
-3. **School Management System**
-   - A web application built using Django for managing school activities, taking notes, and registering grades.
-   - [GitHub Repository](https://github.com/ymankh/kufr-awan-school-django-management-system) -->
+1. Clone the repository.
+2. Open `index.html` in your browser (no build steps required).
 
 ## Contact
 
-Feel free to reach out to me through the contact section on my website or connect with me via [LinkedIn](https://www.linkedin.com/in/yaman-alkhashashneh/).
-
----
-
+Feel free to reach out through the contact section on the site or connect on [LinkedIn](https://www.linkedin.com/in/yaman-alkhashashneh/).
